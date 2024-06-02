@@ -62,5 +62,5 @@ print(cosine_sim)
 ```
 ## Credits
 
-This code was originally created by CampusX (@campusx-official).
+This code was originally created by CampusX (@campusx-official).  \
 Code had been further modified.
