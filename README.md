@@ -27,6 +27,11 @@ Clone the repository:
 ## Usage
    - Enter movie name in recommend functions.
 
+   ```bash
+   streamlit run app.py
+   ```
+   - Enter the movie name and wait for the recommendations
+
 ## Methodology
 The recommender system uses a content-based filtering approach to suggest movies. The key steps are as follows:
 
